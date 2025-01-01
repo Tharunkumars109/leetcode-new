@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Tharunkumars109/leetcode-new/tree/master/0303-range-sum-query-immutable) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
