@@ -4,6 +4,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tharunkumars109/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/Tharunkumars109/leetcode-new/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunkumars109/leetcode-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/Tharunkumars109/leetcode-new/tree/master/1025-minimum-cost-for-tickets) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tharunkumars109/leetcode-new/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Tharunkumars109/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -41,6 +43,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Tharunkumars109/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
