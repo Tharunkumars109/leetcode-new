@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunkumars109/leetcode-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Tharunkumars109/leetcode-new/tree/master/0303-range-sum-query-immutable) |
 | [1025-minimum-cost-for-tickets](https://github.com/Tharunkumars109/leetcode-new/tree/master/1025-minimum-cost-for-tickets) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Design
 |  |
@@ -36,6 +37,7 @@
 | [0012-integer-to-roman](https://github.com/Tharunkumars109/leetcode-new/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/0344-reverse-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tharunkumars109/leetcode-new/tree/master/0012-integer-to-roman) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
