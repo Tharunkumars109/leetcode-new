@@ -16,6 +16,7 @@
 | [0064-minimum-path-sum](https://github.com/Tharunkumars109/leetcode-new/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunkumars109/leetcode-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Tharunkumars109/leetcode-new/tree/master/0303-range-sum-query-immutable) |
+| [0952-word-subsets](https://github.com/Tharunkumars109/leetcode-new/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Tharunkumars109/leetcode-new/tree/master/1025-minimum-cost-for-tickets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -36,6 +37,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Tharunkumars109/leetcode-new/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Tharunkumars109/leetcode-new/tree/master/0012-integer-to-roman) |
 | [0344-reverse-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/0344-reverse-string) |
+| [0952-word-subsets](https://github.com/Tharunkumars109/leetcode-new/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -53,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tharunkumars109/leetcode-new/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Tharunkumars109/leetcode-new/tree/master/0012-integer-to-roman) |
+| [0952-word-subsets](https://github.com/Tharunkumars109/leetcode-new/tree/master/0952-word-subsets) |
 ## Sliding Window
 |  |
 | ------- |
