@@ -39,6 +39,7 @@
 | [0344-reverse-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/0344-reverse-string) |
 | [0952-word-subsets](https://github.com/Tharunkumars109/leetcode-new/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Tharunkumars109/leetcode-new/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Tharunkumars109/leetcode-new/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Tharunkumars109/leetcode-new/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Matrix
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Tharunkumars109/leetcode-new/tree/master/2292-counting-words-with-a-given-prefix) |
+## Stack
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Tharunkumars109/leetcode-new/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Greedy
+|  |
+| ------- |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Tharunkumars109/leetcode-new/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
