@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharunkumars109/leetcode-new/tree/master/0005-longest-palindromic-substring) |
+| [0063-unique-paths-ii](https://github.com/Tharunkumars109/leetcode-new/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tharunkumars109/leetcode-new/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunkumars109/leetcode-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-minimum-cost-for-tickets](https://github.com/Tharunkumars109/leetcode-new/tree/master/1025-minimum-cost-for-tickets) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharunkumars109/leetcode-new/tree/master/0004-median-of-two-sorted-arrays) |
+| [0063-unique-paths-ii](https://github.com/Tharunkumars109/leetcode-new/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tharunkumars109/leetcode-new/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunkumars109/leetcode-new/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0303-range-sum-query-immutable](https://github.com/Tharunkumars109/leetcode-new/tree/master/0303-range-sum-query-immutable) |
@@ -45,6 +47,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Tharunkumars109/leetcode-new/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Tharunkumars109/leetcode-new/tree/master/0064-minimum-path-sum) |
 ## Two Pointers
 |  |
